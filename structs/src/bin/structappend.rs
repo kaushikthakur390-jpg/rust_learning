@@ -15,5 +15,5 @@ fn main ()
         salary : 60000.12,
     };
     emp1.email = String :: from("kaushikthakur390@gmail.com");
-    println!("email : {}",emp1.email);
+    println!("email : {}",emp1.email); 
 }
